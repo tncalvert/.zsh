@@ -6,5 +6,5 @@ test -r $d && eval "$(dircolors $d)"
 export EDITOR=vim
 
 # set ssh passkey
-ssh-add
+#ssh-add
 
